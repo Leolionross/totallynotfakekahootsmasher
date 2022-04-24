@@ -39,4 +39,5 @@ button{
     border-radius: 1em;
     color: whitesmoke;
     border-style: double;
+    cursor: pointer;
 }
